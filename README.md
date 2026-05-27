@@ -6,16 +6,16 @@ Created map visualizations for state-wise sales analysis and regional business i
 Used DAX measures and Power Query for data transformation, calculations, and dashboard optimization.
 Delivered actionable business insights through interactive charts and performance tracking reports.
 skills:
-Power BI
-DAX
-Power Query
-SQL
-Data Visualization
-Dashboard Development
-Business Intelligence
-KPI Reporting
-Data Cleaning & Transformation
-Sales Analytics
-Interactive Reporting
-Map Visualization
+Power BI,
+DAX,
+Power Query,
+SQL,
+Data Visualization,
+Dashboard Development,
+Business Intelligence,
+KPI Reporting,
+Data Cleaning & Transformation,
+Sales Analytics,
+Interactive Reporting,
+Map Visualization,
 Trend Analysis
